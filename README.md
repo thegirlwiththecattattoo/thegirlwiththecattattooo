@@ -1,29 +1,3 @@
 # thegirlwiththecattattooo
 
-<div id="about" align="center">
-
-## Hey ya'll - it's April 💋
-
-</div>
-
-## About
-
-Equal parts technical and chic – welcome to my corner of the internet where I create elegant things with code.
-
-## Books
-
-## Website
-
-Visit my [website](https://www.vogueandcode.com/blog) where I share my projects.
-
-## Contact
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/aprilspeight">
-    <img src="https://github.com/user-attachments/assets/9f0619a4-802b-46eb-be26-b26105fd4c99)" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.twitter.com/vogueandcode">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
+![whatareyoudoinghere](https://github.com/user-attachments/assets/c62ba6d7-8f65-4b15-b708-247bc9b8b680)
